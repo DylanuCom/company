@@ -1,0 +1,6 @@
+1- تركيب لارافال 10
+2- تركيب مكتبة 
+https://docs.astrotomic.info/laravel-translatable/installation
+3-تركيب مكتبة 
+https://github.com/mcamara/laravel-localization?tab=readme-ov-file#installation
+4-تركيب التصميم غدا
